@@ -1,0 +1,14 @@
+/home/cantarelli/RiderProjects/Banco/Banco/bin/Debug/net10.0/Banco
+/home/cantarelli/RiderProjects/Banco/Banco/bin/Debug/net10.0/Banco.deps.json
+/home/cantarelli/RiderProjects/Banco/Banco/bin/Debug/net10.0/Banco.runtimeconfig.json
+/home/cantarelli/RiderProjects/Banco/Banco/bin/Debug/net10.0/Banco.dll
+/home/cantarelli/RiderProjects/Banco/Banco/bin/Debug/net10.0/Banco.pdb
+/home/cantarelli/RiderProjects/Banco/Banco/obj/Debug/net10.0/Banco.GeneratedMSBuildEditorConfig.editorconfig
+/home/cantarelli/RiderProjects/Banco/Banco/obj/Debug/net10.0/Banco.AssemblyInfoInputs.cache
+/home/cantarelli/RiderProjects/Banco/Banco/obj/Debug/net10.0/Banco.AssemblyInfo.cs
+/home/cantarelli/RiderProjects/Banco/Banco/obj/Debug/net10.0/Banco.csproj.CoreCompileInputs.cache
+/home/cantarelli/RiderProjects/Banco/Banco/obj/Debug/net10.0/Banco.dll
+/home/cantarelli/RiderProjects/Banco/Banco/obj/Debug/net10.0/refint/Banco.dll
+/home/cantarelli/RiderProjects/Banco/Banco/obj/Debug/net10.0/Banco.pdb
+/home/cantarelli/RiderProjects/Banco/Banco/obj/Debug/net10.0/Banco.genruntimeconfig.cache
+/home/cantarelli/RiderProjects/Banco/Banco/obj/Debug/net10.0/ref/Banco.dll
